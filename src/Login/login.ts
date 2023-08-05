@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
+// npm i styled-components
+// npm i @types/styled-components
+
 export const Container = styled.div`
     height: 100vh;
     background-color: #1c1c1c;
